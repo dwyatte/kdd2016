@@ -26,6 +26,6 @@ https://github.com/MSeal/kdd2016
 * AWS EMR: https://docs.google.com/document/d/14lF3GZoWHoe0CkdViCcWa6fE_92sIvgOarsQQJg7ckY/edit
 * AWS Lambda: https://docs.google.com/document/d/1Gw9SkHNisT6uogYEVqBWIys1tPLFVm6_y2MrMOoOU6g/edit
 
-# Overcoming the Lambda 5 minute limit
+# Overcoming the AWS Lambda 5 minute limit
 * https://serifandsemaphore.io/aws-lambda-going-beyond-5-minutes-34e381e71231?gi=a2bf8ded66e0#.wnzp1aog1
 * https://aws.amazon.com/blogs/compute/better-together-amazon-ecs-and-aws-lambda/
